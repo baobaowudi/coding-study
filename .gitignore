@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data and model artifacts
+study-workspace/datasets/raw/*
+study-workspace/datasets/processed/*
+!study-workspace/datasets/raw/.gitkeep
+!study-workspace/datasets/processed/.gitkeep
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+
+# Local logs
+*.log
+runs/
+wandb/
+mlruns/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
