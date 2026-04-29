@@ -33,6 +33,8 @@ PDF 的绿色路线适合建立“深度学习 + 论文复现”的主线，但�
 - [interview-checklist.md](./interview-checklist.md)：面试准备清单
 - [study-workspace](./study-workspace)：实际学习代码、笔记、实验和项目目录
 
+当前学习进度以 [PROGRESS.md](./PROGRESS.md) 为准。
+
 ## 每周固定节奏
 
 - 周一到周五：每天 3 小时
@@ -72,4 +74,3 @@ week-14: add paper reproduction ablation
 - 不只收藏资料，要产出代码、笔记、实验和项目。
 - 不追求一开始就看最难论文，先建立可解释、可复现、可面试的能力。
 - 不把项目包装过度，简历里的每一句都要能被追问。
-
