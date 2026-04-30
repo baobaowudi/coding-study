@@ -62,15 +62,15 @@
 目标：把学习仓库、工具、时间块准备好。
 
 - [x] 建立中文学习计划仓库
-- [ ] 创建或确认 GitHub 远程仓库
-- [ ] 安装或确认 Python、Git、VS Code/PyCharm、Jupyter
-- [ ] 固定每周学习时间块
-- [ ] 建立第 1 周 Python 练习目录
+- [x] 创建或确认 GitHub 远程仓库：`https://github.com/baobaowudi/coding-study.git`
+- [x] 安装或确认 Python、Git、VS Code/PyCharm、Jupyter
+- [ ] 固定每周学习时间块：把周一到周日的学习块放进日历或计划表后再勾选
+- [x] 建立第 1 周 Python 练习目录：`study-workspace/exercises/week-01-python`
 
 本周记录：
 
 - 实际投入：
-- 最大阻塞：GitHub 远程仓库尚未提供 URL
+- 最大阻塞：固定每周学习时间块还没有落到日历或计划表
 - 下周第一件事：开始阅读《利用Python进行数据分析》，并准备 Week 2 的 EDA notebook
 
 ## Week 1：2026-05-04 至 2026-05-10
@@ -325,4 +325,3 @@
 - 主要产出：
 - 最大阻塞：
 - 下一阶段计划：
-
