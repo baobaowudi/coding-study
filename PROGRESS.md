@@ -6,7 +6,7 @@
 
 - 当前周数：准备周 / PDF 路线第 2 部分
 - 当前阶段：NumPy/Pandas 书籍学习准备阶段
-- 当前任务：阅读《利用Python进行数据分析》
+- 当前任务：阅读《利用Python进行数据分析》；完成 30 道 Python 小练习
 - 已完成项目：0 / 2
 - 已完成论文/开源复现：0 / 1
 - 简历状态：未开始
@@ -64,14 +64,23 @@
 - [x] 建立中文学习计划仓库
 - [x] 创建或确认 GitHub 远程仓库：`https://github.com/baobaowudi/coding-study.git`
 - [x] 安装或确认 Python、Git、VS Code/PyCharm、Jupyter
-- [ ] 固定每周学习时间块：把周一到周日的学习块放进日历或计划表后再勾选
+- [x] 固定每周学习时间块：已建立 `study-workspace/schedules/weekly-time-blocks.md`，可导入日历文件为 `study-workspace/schedules/weekly-time-blocks.ics`
 - [x] 建立第 1 周 Python 练习目录：`study-workspace/exercises/week-01-python`
 
 本周记录：
 
 - 实际投入：
-- 最大阻塞：固定每周学习时间块还没有落到日历或计划表
+- 最大阻塞：30 道 Python 小练习已经准备好，但练习本身还没有完成
 - 下周第一件事：开始阅读《利用Python进行数据分析》，并准备 Week 2 的 EDA notebook
+
+2026-05-02 准备记录：
+
+- 已确认 Python 3.12.6、Git 2.53.0.windows.2 可用。
+- 已确认 VS Code 和 PyCharm Community 可用。
+- 已创建项目本地虚拟环境 `.venv`，并安装 JupyterLab、Notebook、ipykernel、NumPy、Pandas、Matplotlib。
+- 已注册 Jupyter 内核：`Python (coding-study-ai)`。
+- 已建立固定每周 25 小时时间块计划，并提供 `.ics` 日历导入文件。
+- 已准备 30 道 Python 小练习清单和 3 个 starter 文件。
 
 ## Week 1：2026-05-04 至 2026-05-10
 
@@ -81,10 +90,12 @@
 
 - PDF 路线中的人工智能认知建立：已完成
 - PDF 路线中的 Python 基础知识：已完成
-- 16 周计划中的开发环境、30 道 Python 练习、正式笔记产出：待确认
+- 16 周计划中的开发环境：已完成
+- 30 道 Python 练习：题目和 starter 文件已准备，练习本身待完成
+- 正式笔记产出：待完成
 
 - [ ] 完成 30 道 Python 小练习
-- [ ] 配好 Python/Git/Jupyter
+- [x] 配好 Python/Git/Jupyter
 - [ ] 写一篇笔记：AI 算法工程师到底做什么
 
 本周记录：
