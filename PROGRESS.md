@@ -82,6 +82,18 @@
 - 已建立固定每周 25 小时时间块计划，并提供 `.ics` 日历导入文件。
 - 已准备 30 道 Python 小练习清单和 3 个 starter 文件。
 
+2026-05-02 收尾记录：
+
+- 这一天只记录为准备日，不记录为正式学习日。
+- 没有完成读书、Python 练习、EDA notebook 或正式学习笔记。
+- 准备工作已经足够，后续不再用“环境没配好”作为拖延理由。
+
+2026-05-03 正式启动：
+
+- 今天从小任务开始，不补偿式加量。
+- 今日最低完成标准：完成 Python 练习 01-05，并写下 5 条 NumPy/Pandas 读书笔记。
+- 今日可见产出位置：`study-workspace/notes/daily/2026-05-03.md` 和 `study-workspace/exercises/week-01-python/01_string_list_dict.py`。
+
 ## Week 1：2026-05-04 至 2026-05-10
 
 主题：AI 认知、Python 复盘、开发环境
