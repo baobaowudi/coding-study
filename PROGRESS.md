@@ -1,12 +1,12 @@
 # 学习进度同步
 
-从 2026-05-04 开始正式进入 16 周计划。每周日更新一次。
+从 2026-05-03 开始正式学习；2026-05-04 起按 Week 1 周计划滚动推进。每周日更新一次。
 
 ## 总进度
 
 - 当前周数：准备周 / PDF 路线第 2 部分
 - 当前阶段：NumPy/Pandas 书籍学习准备阶段
-- 当前任务：阅读《利用Python进行数据分析》；完成 30 道 Python 小练习
+- 当前任务：完成 7 天 Python 基础桥接；阅读《利用Python进行数据分析》第 84-168 页
 - 已完成项目：0 / 2
 - 已完成论文/开源复现：0 / 1
 - 简历状态：未开始
@@ -28,11 +28,17 @@
 
 ## 当前学习任务
 
-阶段目标：把 NumPy/Pandas 从“看过视频”推进到“能用书本知识完成数据分析产出”。
+阶段目标：先把 Python 从“看懂”推进到“能照着思路写出代码”，同时把 NumPy/Pandas 从“看过视频”推进到“能用书本知识完成数据分析产出”。
 
 当前阅读材料：
 
 - 《利用Python进行数据分析》
+
+当前 Python 训练材料：
+
+- `study-workspace/exercises/python-foundation-bridge/`
+- 7 天桥接目标：每天做小范围语法映射训练，专门记录“我有思路但不会写代码”的卡点。
+- 原 30 道 Python 小练习暂时不取消，但顺序后移：先完成 7 天桥接，再回到 `study-workspace/exercises/week-01-python/`。
 
 重点掌握：
 
@@ -52,12 +58,12 @@
 | 周数 | 原计划主题 | 当前同步状态 | 说明 |
 |---|---|---|---|
 | Week 1 | AI 认知、Python 复盘、开发环境 | 部分完成 | PDF 路线中的 AI 认知和 Python 基础已完成；开发环境、30 道 Python 练习等交付项待确认 |
-| Week 2 | NumPy、Pandas、文本数据 EDA | 进行中 | NumPy/Pandas 视频已完成；当前进入《利用Python进行数据分析》阅读和 EDA 产出阶段 |
+| Week 2 | NumPy、Pandas、文本数据 EDA | 进行中 | NumPy/Pandas 视频已完成；当前进入 7 天页码阅读计划和 EDA 产出准备阶段 |
 | Week 3 | 数学核心 | 未开始 | 完成数据分析阶段后进入 |
 | Week 4 | 传统机器学习 | 未开始 | 后续用 sklearn 跑完整项目 |
 | Week 5-16 | PyTorch、NLP、Transformer、RAG、LoRA、评测、论文复现、简历 | 未开始 | 后续按周推进 |
 
-## 准备周：2026-04-29 至 2026-05-03
+## 准备周：2026-04-29 至 2026-05-02
 
 目标：把学习仓库、工具、时间块准备好。
 
@@ -71,7 +77,7 @@
 
 - 实际投入：
 - 最大阻塞：30 道 Python 小练习已经准备好，但练习本身还没有完成
-- 下周第一件事：开始阅读《利用Python进行数据分析》，并准备 Week 2 的 EDA notebook
+- 下周第一件事：按每日详细计划完成 Python 基础桥接，并阅读《利用Python进行数据分析》指定页码
 
 2026-05-02 准备记录：
 
@@ -91,8 +97,8 @@
 2026-05-03 正式启动：
 
 - 今天从小任务开始，不补偿式加量。
-- 今日最低完成标准：完成 Python 练习 01-05，并写下 5 条 NumPy/Pandas 读书笔记。
-- 今日可见产出位置：`study-workspace/notes/daily/2026-05-03.md` 和 `study-workspace/exercises/week-01-python/01_string_list_dict.py`。
+- 今日最低完成标准：完成 Python 基础桥接 Day 1；阅读《利用Python进行数据分析》第 84-91 页；写下 5 条 NumPy/Pandas 读书笔记。
+- 今日可见产出位置：`study-workspace/notes/daily/2026-05-03.md` 和 `study-workspace/exercises/python-foundation-bridge/`。
 
 ## Week 1：2026-05-04 至 2026-05-10
 
@@ -103,9 +109,11 @@
 - PDF 路线中的人工智能认知建立：已完成
 - PDF 路线中的 Python 基础知识：已完成
 - 16 周计划中的开发环境：已完成
-- 30 道 Python 练习：题目和 starter 文件已准备，练习本身待完成
+- Python 基础桥接：已建立 7 天材料，当前优先完成
+- 30 道 Python 练习：题目和 starter 文件已准备，练习本身后移到桥接之后完成
 - 正式笔记产出：待完成
 
+- [ ] 完成 7 天 Python 基础桥接
 - [ ] 完成 30 道 Python 小练习
 - [x] 配好 Python/Git/Jupyter
 - [ ] 写一篇笔记：AI 算法工程师到底做什么
@@ -115,7 +123,7 @@
 - 实际投入：
 - 主要产出：PDF 路线 AI 认知和 Python 基础已完成
 - 最大阻塞：
-- 下周调整：不重复消耗太多时间在 Python 基础，转入 NumPy/Pandas 书籍学习和 EDA 产出
+- 下周调整：先用 7 天桥接训练补齐代码映射能力，同时推进 NumPy/Pandas 书籍页码阅读
 
 ## Week 2：2026-05-11 至 2026-05-17
 
@@ -124,7 +132,7 @@
 当前实际进度：
 
 - NumPy/Pandas 推荐视频：已完成
-- 当前下一步：阅读《利用Python进行数据分析》
+- 当前下一步：按 7 天计划阅读《利用Python进行数据分析》第 84-168 页
 - 目标产出：EDA notebook、数据清洗脚本、数据质量报告
 
 - [ ] 阅读《利用Python进行数据分析》中 NumPy、Pandas、数据清洗、数据整理、分组聚合相关章节
